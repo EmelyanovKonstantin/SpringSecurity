@@ -1,6 +1,7 @@
 package ru.emelyanovkonstantin.springsecurity.model;
 
 import javax.persistence.*;
+import java.util.Set;
 
 /**
  * Created by EmelyanovKonstantin on 30.06.2020
