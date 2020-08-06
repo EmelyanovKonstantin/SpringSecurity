@@ -1,6 +1,7 @@
 package ru.emelyanovkonstantin.springsecurity.validator;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;
@@ -13,6 +14,7 @@ import ru.emelyanovkonstantin.springsecurity.service.UserService;
  * implements {@link org.springframework.validation.Validator}
  * @version 1.0
  */
+@Component
 public class UserValidator implements Validator {
 
     @Autowired
