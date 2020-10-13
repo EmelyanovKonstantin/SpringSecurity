@@ -25,7 +25,7 @@
     <mssql-jdbc.version>8.2.2.jre8</mssql-jdbc.version>
     <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
     <jstl.version>1.2</jstl.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <logback.version>1.2.3</logback.version>
   </properties>
 
