@@ -21,7 +21,7 @@
     <spring-data-jpa.version>2.3.1.RELEASE</spring-data-jpa.version>
     <hibernate.version>5.4.18.Final</hibernate.version>
     <hibernate-validator.version>6.1.5.Final</hibernate-validator.version>
-    <mysql-connector.version>8.0.20</mysql-connector.version>
+    <mysql-connector.version>8.0.28</mysql-connector.version>
     <mssql-jdbc.version>8.2.2.jre8</mssql-jdbc.version>
     <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
     <jstl.version>1.2</jstl.version>
